@@ -3,7 +3,7 @@
 This repository contains my networking task for DevOps internship.
 
 ## Tools Used
-- Linux CLI (Ubuntu)
+- Windows WSL
 
 ## What I Learned
 - IP addressing
